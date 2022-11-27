@@ -1,1 +1,1 @@
-# -RGBtoHSVconverter
+# RGB to HSV converter
